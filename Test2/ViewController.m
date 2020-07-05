@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    NSLog(@"主项目更新submodule");
+    NSLog(@"主项目更新submodule2");
 }
 
 
