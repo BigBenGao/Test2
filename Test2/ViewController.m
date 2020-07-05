@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    NSLog(@"外部项目更新2");
+    NSLog(@"外部项目更新3");
     
     
 }
