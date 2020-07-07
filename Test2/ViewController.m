@@ -19,8 +19,7 @@
     // Do any additional setup after loading the view.
 
     NSLog(@"master 更新");
-    NSLog(@"dev 更新4");
-    NSLog(@"dev 更新3");
+    NSLog(@"dev 更新6");
 }
 
 
