@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"master 更新");
-    
+    NSLog(@"dev 更新2");
 }
 
 
